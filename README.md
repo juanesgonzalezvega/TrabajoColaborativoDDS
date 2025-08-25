@@ -4,7 +4,7 @@
 
 Este proyecto tiene como objetivo analizar el **tanque de guerra diseñado por Leonardo da Vinci**, aplicando conceptos de física y matemáticas, específicamente de las materias **Física 2** y **Cálculo Vectorial**. Se busca estudiar y modelar el funcionamiento del tanque de guerra, comprendiendo su posible operación utilizando teorías físicas y matemáticas modernas.
 
-El trabajo se realiza de manera colaborativa entre los miembros del equipo:
+El trabajo se realiza de manera colaborativa entre los miembros del equipo: @
 
 - **Juan V**  
 - **Julian G**  
