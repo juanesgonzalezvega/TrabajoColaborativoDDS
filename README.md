@@ -41,15 +41,15 @@ El trabajo se realiza de manera colaborativa entre los miembros del equipo:
 - **Julian G**: Encargado de los cálculos vectoriales y simulación matemática.
 - **Juan G**: Coordinador y responsable de la integración de los resultados y visualización.
 
-## Cronograma
+## Fases del proyecto
 
-| Fase                      | Descripción                                                       | Fecha de Entrega |
-|---------------------------|-------------------------------------------------------------------|------------------|
-| **Fase 1**                 | Investigación y recopilación de información sobre el tanque.      | 01/09/2025       |
-| **Fase 2**                 | Análisis físico y matemático inicial.                             | 10/09/2025       |
-| **Fase 3**                 | Simulación y modelado de fuerzas y movimiento.                    | 20/09/2025       |
-| **Fase 4**                 | Interpretación de resultados y conclusiones.                      | 30/09/2025       |
-| **Fase 5**                 | Documentación y presentación final.                              | 05/10/2025       |
+| Fase                      | Descripción                                                       |
+|---------------------------|-------------------------------------------------------------------|
+| **Fase 1**                 | Investigación y recopilación de información sobre el tanque.      |
+| **Fase 2**                 | Análisis físico y matemático inicial.                             |
+| **Fase 3**                 | Simulación y modelado de fuerzas y movimiento.                    |
+| **Fase 4**                 | Interpretación de resultados y conclusiones.                      |
+| **Fase 5**                 | Documentación y presentación final.                              |
 
 ## Resultados Esperados
 
