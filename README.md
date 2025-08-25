@@ -61,7 +61,3 @@ El trabajo se realiza de manera colaborativa entre los miembros del equipo:
 
 Este proyecto no solo es una excelente oportunidad para aplicar conocimientos de física y matemáticas, sino también para desarrollar habilidades de trabajo en equipo, análisis y resolución de problemas complejos. A través de este estudio, se espera obtener una mejor comprensión de los principios que Leonardo da Vinci aplicó en su diseño y cómo estos se pueden mejorar con el conocimiento moderno.
 
-## Licencia
-
-Este proyecto se encuentra bajo la **Licencia MIT**. Puedes consultar los términos completos de la licencia [aquí](https://opensource.org/licenses/MIT).
-
